@@ -13,8 +13,8 @@
 #### 📺 [종합설계 프로젝트 - 음성인식 유튜브 영상 조절 앱 (with JAVA, Android)](https://github.com/ChanJun-Park/HelloCookieYa)
 
 <center>
-<img src="./image/HelloCookieYa/북마크%20생성_2.gif" width="200px">
-<img src="./image/HelloCookieYa/시간이동2_3.gif" width="550px">
+<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/HelloCookieYa/%EB%B6%81%EB%A7%88%ED%81%AC%20%EC%83%9D%EC%84%B1_2.gif" width="200px">
+<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/HelloCookieYa/%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%8F%992_3.gif" width="550px">
 </center>
 <br><br>
 
@@ -25,7 +25,7 @@
 #### 🎫 [2020 여름방학 청년취업 아카데미 최종 프로젝트 - Voting, 즐거운 참견](https://github.com/ChanJun-Park/VotingProject)
 
 <center>
-<img src="./image/VotingProject/intro.png" width="850px">
+<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/VotingProject/intro.png" width="850px">
 </center>
 
 - 프로젝트 소개 : 투표를 통해 사람들이 타인의 일에 자유롭게 "참견" 할 수 있는 Web app. 점심 메뉴부터 중요한 사회적 이슈까지, 타인의 참여를 원하는 투표를 사용자가 자유롭게 생성할 수 있음.

@@ -13,8 +13,10 @@
 #### 📺 [종합설계 프로젝트 - 음성인식 유튜브 영상 조절 앱 (with JAVA, Android)](https://github.com/ChanJun-Park/HelloCookieYa)
 
 <center>
-<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/HelloCookieYa/%EB%B6%81%EB%A7%88%ED%81%AC%20%EC%83%9D%EC%84%B1_2.gif" width="200px">
-<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/HelloCookieYa/%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%8F%992_3.gif" width="550px">
+<div style="overflow:hidden;">
+<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/HelloCookieYa/%EB%B6%81%EB%A7%88%ED%81%AC%20%EC%83%9D%EC%84%B1_2.gif" width="200px" style="float:left;">
+<img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/HelloCookieYa/%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%8F%992_3.gif" width="550px" style="float:left;">
+</div>
 </center>
 <br><br>
 

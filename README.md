@@ -30,7 +30,7 @@
 <img src="https://github.com/ChanJun-Park/ChanJun-Park/blob/master/image/VotingProject/intro.png" width="850px">
 </center>
 
-- 프로젝트 소개 : 투표를 통해 사람들이 타인의 일에 자유롭게 "참견" 할 수 있는 Web app. 점심 메뉴부터 중요한 사회적 이슈까지, 타인의 참여를 원하는 투표를 사용자가 자유롭게 생성할 수 있음.
+- 프로젝트 소개 : 투표를 통해 사람들이 타인의 일에 자유롭게 "참견" 할 수 있는 Web app 제작. 점심 메뉴부터 중요한 사회적 이슈까지, 타인의 참여를 원하는 투표를 사용자가 자유롭게 생성할 수 있음.
 - 프로젝트에서 담당한 역할 : DB에서 투표 항목 리스트를 불러와 메인 페이지에 보여주는 부분 개발.
 - 프로젝트 성과 : **OracleDB, JSP/Servlet, JavaScript, Ajax, Spring Framework** 등 청년취업 아카데미 수업에서 배운 내용을 활용하여 여러 사람이 사용할 수 있는 웹 애플리케이션 제작. 팀 프로젝트 경진대회에서 최우수 프로젝트 수상.
 
